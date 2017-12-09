@@ -1,0 +1,58 @@
+#photos:hover {
+  opacity:.5;
+ }
+/* visited link */
+#text:visited {
+    color: green;
+}
+
+/* mouse over link */
+#text:hover {
+    color: red;
+}
+
+/* selected link */
+#text:active {
+    color: yellow;
+}
+#tagline {
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Georgia,Times,"Times New Roman",serif;
+    margin: 8px 0 32px;
+    color: #999;
+    text-align: center;
+}
+.vertical_line {    
+border-left: thick solid #ff0000;
+}
+#sign_up{
+margin-left:28em;margin-right:45em;
+}
+header, footer {
+    padding-top: 1em;
+    color: white;
+    background-color: white;
+    clear: left;
+    text-align: center;
+	 line-height: 0;
+	 position: relative;
+	border-bottom: 5px solid white;
+}
+        .aq{
+            background-color: #71740E;
+            border: outset; 
+        }
+        .profile-buttons:hover{
+            background-color: #E0D5D3;
+        }
+        input{
+            margin-left: 30px;
+            width: 400px;
+            height: 20px;
+            padding-left: 35px; 
+        }
+		
+		.upvote:click{
+            background-color: #269053;
+        }
